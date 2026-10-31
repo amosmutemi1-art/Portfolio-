@@ -1,5 +1,4 @@
 body {
-    /* font-family: Arial, #1284aesans-serif; */
     font-family: Arial, sans-serif;
     background-color:hwb(196 18% 15%) ;
     margin : 0;
@@ -7,7 +6,6 @@ body {
     color: #333;
 }
 
-/* Main heading */
 h1 {
     color: #1e3a8a;
     text-align: center;
